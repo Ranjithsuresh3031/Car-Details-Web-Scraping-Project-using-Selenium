@@ -1,0 +1,778 @@
+,brand,selling price,kilometer,Fuel Type,Transmission
+0,2021 Maruti Swift VXI,₹5.94 Lakh,"28,286 km",Petrol,Manual
+1,2014 Honda Amaze 1.5L I-DTEC SX,₹3.83 Lakh,"1,09,690 km",Diesel,Manual
+2,2014 Toyota Etios V,₹3.93 Lakh,"61,614 km",Petrol,Manual
+3,2011 Hyundai i10 SPORTZ 1.2,₹2.52 Lakh,"32,786 km",Petrol,Manual
+4,2012 Honda Brio S MT,₹2.45 Lakh,"62,948 km",Petrol,Manual
+5,2011 Toyota Etios G,₹2.71 Lakh,"68,709 km",Petrol,Manual
+6,2011 Hyundai i10 SPORTZ 1.2,₹2.28 Lakh,"55,644 km",Petrol,Manual
+7,2013 Maruti Swift Dzire VXI,₹4.15 Lakh,"34,929 km",Petrol,Manual
+8,2014 Honda City 1.5L I-VTEC SV,₹4.29 Lakh,"72,419 km",Petrol,Manual
+9,2014 Honda Brio S MT,₹3.27 Lakh,"34,076 km",Petrol,Manual
+10,2016 Volkswagen Vento HIGHLINE 1.6 MPI,₹5.45 Lakh,"83,662 km",Petrol,Manual
+11,2012 Honda City 1.5L I-VTEC V MT,₹4.22 Lakh,"49,070 km",CNG,Manual
+12,2017 Mahindra XUV500 W4,₹6.65 Lakh,"57,768 km",Diesel,Manual
+13,2014 Maruti Wagon R 1.0 LXI CNG,₹3.23 Lakh,"81,118 km",CNG,Manual
+14,2019 Volkswagen Ameo HIGHLINE PLUS 1.5L AT 16 ALLOY,₹8.00 Lakh,"62,899 km",Diesel,Automatic
+15,2012 Maruti Swift Dzire ZXI,₹3.83 Lakh,"64,966 km",Petrol,Manual
+16,2014 Hyundai Verna FLUIDIC 1.6 CRDI SX,₹5.21 Lakh,"97,244 km",Diesel,Manual
+17,2013 Honda Amaze 1.2L I-VTEC S,₹2.83 Lakh,"88,948 km",Petrol,Manual
+18,2011 Toyota Etios G,₹2.35 Lakh,"88,327 km",Petrol,Manual
+19,2013 Honda Amaze 1.5L I-DTEC VX,₹3.44 Lakh,"1,06,457 km",Diesel,Manual
+20,2012 Maruti Swift Dzire ZXI,₹3.84 Lakh,"85,662 km",Petrol,Manual
+21,2015 Renault Kwid RXT 0.8,₹2.24 Lakh,"47,526 km",Petrol,Manual
+22,2014 Honda City 1.5L I-VTEC V MT,₹4.55 Lakh,"53,832 km",Petrol,Manual
+23,2011 Maruti Wagon R 1.0 LXI,₹2.04 Lakh,"45,163 km",Petrol,Manual
+24,2011 Hyundai i20 ASTA 1.2,₹2.25 Lakh,"46,480 km",Petrol,Manual
+25,2015 Renault Duster 110 PS RXZ 4X4 MT DIESEL,₹4.59 Lakh,"70,112 km",Diesel,Manual
+26,2016 Hyundai Elite i20 SPORTZ 1.2,₹5.18 Lakh,"32,589 km",Petrol,Manual
+27,2012 Honda City 1.5L I-VTEC V MT,₹3.21 Lakh,"66,630 km",Petrol,Manual
+28,2016 Honda City 1.5L I-VTEC VX CVT,₹7.82 Lakh,"19,799 km",Petrol,Automatic
+29,2014 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,₹3.57 Lakh,"59,184 km",Petrol,Manual
+30,2018 Tata Tiago XZ PETROL,₹4.54 Lakh,"92,005 km",Petrol,Manual
+31,2017 Hyundai Verna 1.4 VTVT,₹5.50 Lakh,"71,706 km",CNG,Manual
+32,2016 Honda City 1.5L I-VTEC V MT,₹5.40 Lakh,"50,488 km",Petrol,Manual
+33,2012 Hyundai i10 SPORTZ 1.2,₹2.65 Lakh,"14,095 km",Petrol,Manual
+34,2012 Renault Duster 85 PS RXL DIESEL,₹3.86 Lakh,"1,15,074 km",Diesel,Manual
+35,2015 Hyundai i20 Active 1.2 S,₹4.82 Lakh,"97,709 km",Petrol,Manual
+36,2015 Maruti Wagon R 1.0 VXI,₹3.39 Lakh,"38,429 km",Petrol,Manual
+37,2011 Hyundai i20 SPORTZ (O) 1.2,₹2.57 Lakh,"46,995 km",Petrol,Manual
+38,2012 Maruti Wagon R 1.0 LXI,₹2.21 Lakh,"55,336 km",Petrol,Manual
+39,2015 Honda City 1.5L I-VTEC SV CVT,₹5.22 Lakh,"70,651 km",Petrol,Automatic
+40,2012 Maruti Wagon R 1.0 LXI,₹2.18 Lakh,"44,630 km",Petrol,Manual
+41,2011 Honda Brio V MT,₹2.33 Lakh,"80,359 km",Petrol,Manual
+42,2019 Tata Tiago XZA PETROL,₹5.43 Lakh,"30,188 km",Petrol,Automatic
+43,2013 Hyundai i20 MAGNA 1.2,₹3.35 Lakh,"61,058 km",Petrol,Manual
+44,2012 Honda Brio S MT,₹2.26 Lakh,"66,839 km",Petrol,Manual
+45,2013 Hyundai Verna FLUIDIC 1.4 VTVT,₹3.42 Lakh,"90,823 km",Petrol,Manual
+46,2022 Skoda SLAVIA AMBITION 1.0L TSI AT,₹11.06 Lakh,"12,509 km",Petrol,Automatic
+47,2015 Volkswagen Polo HIGHLINE1.5L DIESEL,₹4.40 Lakh,"87,074 km",Diesel,Manual
+48,2015 Maruti Alto 800 LXI,₹2.59 Lakh,"53,512 km",Petrol,Manual
+49,2013 Maruti Ertiga VXI,₹5.73 Lakh,"27,307 km",Petrol,Manual
+50,2013 Maruti Ertiga ZDI,₹5.56 Lakh,"81,548 km",Diesel,Manual
+51,2012 Maruti Ertiga VDI,₹4.89 Lakh,"1,19,482 km",Diesel,Manual
+52,2012 Volkswagen Vento HIGHLINE 1.6 MPI,₹3.20 Lakh,"62,615 km",Petrol,Manual
+53,2013 Maruti Swift Dzire VDI,₹4.97 Lakh,"26,816 km",Diesel,Manual
+54,2012 Maruti Swift Dzire VXI,₹3.64 Lakh,"28,018 km",Petrol,Manual
+55,2013 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹3.39 Lakh,"70,686 km",CNG,Manual
+56,2018 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,₹4.42 Lakh,"56,030 km",Petrol,Manual
+57,2014 Hyundai i10 SPORTZ 1.1,₹3.07 Lakh,"64,418 km",Petrol,Manual
+58,2014 Maruti Wagon R 1.0 VXI,₹3.16 Lakh,"49,095 km",CNG,Manual
+59,2014 Maruti Wagon R 1.0 LXI CNG,₹3.32 Lakh,"83,724 km",CNG,Manual
+60,2013 Hyundai Eon MAGNA +,₹1.83 Lakh,"96,369 km",Petrol,Manual
+61,2014 Ford Ecosport TITANIUM 1.5L PETROL,₹4.20 Lakh,"98,559 km",Petrol,Manual
+62,2016 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹4.32 Lakh,"60,480 km",Petrol,Manual
+63,2010 Maruti Wagon R 1.0 VXI,₹1.99 Lakh,"69,320 km",Petrol,Manual
+64,2015 Hyundai Xcent BASE 1.2,₹3.55 Lakh,"42,821 km",Petrol,Manual
+65,2014 Volkswagen Polo HIGHLINE1.2L,₹4.22 Lakh,"40,732 km",Petrol,Manual
+66,2016 Hyundai Grand i10 ASTA (O) AT 1.2 KAPPA VTVT,₹5.11 Lakh,"49,483 km",Petrol,Automatic
+67,2013 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹3.67 Lakh,"27,117 km",Petrol,Manual
+68,2013 Maruti Swift VXI,₹3.13 Lakh,"69,687 km",Petrol,Manual
+69,2014 Maruti Swift Dzire ZDI,₹6.25 Lakh,"11,144 km",Diesel,Manual
+70,2021 Hyundai Verna SX 1.5 VTVT,₹9.23 Lakh,"15,981 km",Petrol,Manual
+71,2018 Maruti Swift ZDI PLUS AMT,₹7.16 Lakh,"76,264 km",Diesel,Automatic
+72,2013 Maruti Wagon R 1.0 VXI,₹2.62 Lakh,"26,644 km",Petrol,Manual
+73,2015 Maruti Wagon R 1.0 LXI CNG,₹3.67 Lakh,"78,505 km",CNG,Manual
+74,2016 Honda City 1.5L I-VTEC VX CVT,₹7.37 Lakh,"30,247 km",Petrol,Automatic
+75,2022 Tata PUNCH CREATIVE 1.2 AMT KAZIRANGA EDITION ,₹8.67 Lakh,"6,205 km",Petrol,Automatic
+76,2017 Honda WR-V 1.2L I-VTEC VX MT,₹6.15 Lakh,"65,765 km",Petrol,Manual
+77,2016 Hyundai Elite i20 SPORTZ 1.2,₹5.17 Lakh,"82,256 km",Petrol,Manual
+78,2010 Maruti A Star VXI,₹1.52 Lakh,"70,875 km",Petrol,Manual
+79,2012 Maruti Wagon R 1.0 LXI,₹2.12 Lakh,"99,964 km",Petrol,Manual
+80,2016 Skoda Rapid STYLE 1.5 TDI AT,₹5.53 Lakh,"1,14,346 km",Diesel,Automatic
+81,2015 Hyundai i20 Active 1.2 S,₹4.77 Lakh,"41,585 km",Petrol,Manual
+82,2015 Maruti Wagon R 1.0 LXI CNG,₹3.19 Lakh,"70,487 km",CNG,Manual
+83,2012 Honda City 1.5L I-VTEC V MT,₹3.44 Lakh,"1,03,903 km",Petrol,Manual
+84,2013 Maruti Ertiga VDI,₹5.60 Lakh,"99,285 km",Diesel,Manual
+85,2018 Renault Kwid RXT 0.8 (O),₹3.18 Lakh,"12,648 km",Petrol,Manual
+86,2015 Maruti Swift VXI,₹3.93 Lakh,"1,16,210 km",Petrol,Manual
+87,2014 Maruti Wagon R 1.0 LXI CNG,₹3.41 Lakh,"57,238 km",CNG,Manual
+88,2015 Maruti Ciaz VXI,₹4.65 Lakh,"78,426 km",Petrol,Manual
+89,2011 Volkswagen Jetta HIGHLINE TDI AT,₹4.48 Lakh,"1,08,631 km",Diesel,Automatic
+90,2014 Honda Brio S MT,₹2.63 Lakh,"93,987 km",Petrol,Manual
+91,2016 Honda City 1.5L I-VTEC VX CVT,₹6.80 Lakh,"92,419 km",Petrol,Automatic
+92,2022 Renault Kwid RXT 1.0,₹5.42 Lakh,"7,836 km",Petrol,Manual
+93,2016 Maruti Swift VDI,₹5.22 Lakh,"89,183 km",Diesel,Manual
+94,2019 Renault Kwid RXT 1.0 (O),₹3.68 Lakh,"21,885 km",Petrol,Manual
+95,2019 Hyundai Verna 1.6 VTVT SX O,₹8.95 Lakh,"33,202 km",Petrol,Manual
+96,2018 Tata Tiago XZ PETROL,₹4.31 Lakh,"42,107 km",Petrol,Manual
+97,2013 Maruti Wagon R 1.0 VXI,₹2.81 Lakh,"84,252 km",Petrol,Manual
+98,2020 Maruti New Wagon-R LXI CNG 1.0,₹5.78 Lakh,"57,213 km",CNG,Manual
+99,2018 Tata Tiago XZ PETROL,₹4.30 Lakh,"24,754 km",Petrol,Manual
+100,2011 Maruti Swift LXI,₹2.63 Lakh,"58,036 km",Petrol,Manual
+101,2014 Honda Amaze 1.2L I-VTEC S,₹3.48 Lakh,"57,490 km",Petrol,Manual
+102,2019 Renault Kwid RXT 1.0 (O),₹3.63 Lakh,"18,413 km",Petrol,Manual
+103,2015 Maruti Wagon R 1.0 LXI CNG,₹3.46 Lakh,"59,722 km",CNG,Manual
+104,2017 Honda City 1.5L I-VTEC ZX CVT,₹8.14 Lakh,"73,890 km",Petrol,Automatic
+105,2017 Maruti Swift VDI,₹5.04 Lakh,"78,195 km",Diesel,Manual
+106,2016 Maruti Vitara Brezza VDI,₹6.59 Lakh,"76,717 km",Diesel,Manual
+107,2015 Maruti Wagon R 1.0 VXI,₹3.38 Lakh,"26,527 km",Petrol,Manual
+108,2020 KIA SELTOS HTX 1.5 PETROL,₹12.52 Lakh,"15,444 km",Petrol,Manual
+109,2016 Maruti Alto 800 LXI,₹2.53 Lakh,"39,770 km",Petrol,Manual
+110,2016 Toyota Corolla Altis VL CVT PETROL,₹7.73 Lakh,"93,355 km",Petrol,Automatic
+111,2022 Maruti BREZZA ZXI SMART HYBRID ,₹12.10 Lakh,"5,189 km",Petrol,Manual
+112,2016 Hyundai Elite i20 SPORTZ 1.2,₹4.57 Lakh,"98,607 km",Petrol,Manual
+113,2013 Honda CRV 2.0L 2WD MT,₹5.32 Lakh,"1,01,404 km",Petrol,Manual
+114,2012 Maruti Wagon R 1.0 VXI,₹2.65 Lakh,"42,314 km",Petrol,Manual
+115,2021 Maruti New Wagon-R LXI CNG (O) 1.0,₹6.37 Lakh,"16,140 km",CNG,Manual
+116,2013 Honda City 1.5L I-VTEC V MT,₹3.55 Lakh,"64,545 km",Petrol,Manual
+117,2015 Maruti Ciaz VXI,₹5.62 Lakh,"40,092 km",Petrol,Manual
+118,2018 Maruti Alto K10 LXI CNG,₹3.41 Lakh,"54,171 km",CNG,Manual
+119,2015 Honda Brio S MT,₹3.73 Lakh,"52,053 km",Petrol,Manual
+120,2017 Renault Kwid CLIMBER 1.0 AMT,₹3.04 Lakh,"67,287 km",Petrol,Automatic
+121,2015 Maruti Wagon R 1.0 LXI CNG,₹3.47 Lakh,"85,592 km",CNG,Manual
+122,2015 Hyundai Creta SX (O) 1.6 DIESEL,₹8.34 Lakh,"86,928 km",Diesel,Manual
+123,2019 Renault Kwid RXT 0.8 (O),₹3.60 Lakh,"15,175 km",Petrol,Manual
+124,2016 Hyundai Verna FLUIDIC 1.6 CRDI S 4S,₹5.37 Lakh,"77,811 km",Diesel,Manual
+125,2013 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,₹3.52 Lakh,"62,209 km",Petrol,Manual
+126,2018 Hyundai NEW SANTRO SPORTZ CNG,₹5.07 Lakh,"91,265 km",CNG,Manual
+127,2016 Hyundai Elite i20 MAGNA 1.2,₹4.66 Lakh,"56,991 km",Petrol,Manual
+128,2015 Maruti Wagon R 1.0 LXI CNG,₹3.36 Lakh,"57,643 km",CNG,Manual
+129,2017 Maruti Wagon R 1.0 VXI,₹3.94 Lakh,"18,953 km",Petrol,Manual
+130,2017 Hyundai Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,₹5.64 Lakh,"40,049 km",Petrol,Automatic
+131,2016 Hyundai Elite i20 SPORTZ 1.2,₹5.31 Lakh,"65,426 km",Petrol,Manual
+132,2018 Maruti Dzire ZXI,₹5.01 Lakh,"1,06,701 km",Petrol,Manual
+133,2021 Honda Amaze 1.2L I-VTEC VX CVT,₹8.12 Lakh,"23,076 km",Petrol,Automatic
+134,2015 Honda City 1.5L I-VTEC SV,₹4.87 Lakh,"62,499 km",CNG,Manual
+135,2021 Nissan MAGNITE XV PREMIUM TURBO CVT,₹8.91 Lakh,"12,964 km",Petrol,Automatic
+136,2018 Toyota Corolla Altis VL CVT PETROL,₹10.75 Lakh,"74,141 km",Petrol,Automatic
+137,2015 Honda Jazz 1.2L I-VTEC VX,₹4.53 Lakh,"40,812 km",Petrol,Manual
+138,2020 Tata TIGOR XZ PLUS PETROL,₹6.46 Lakh,"12,239 km",Petrol,Manual
+139,2017 Datsun Redi Go T,₹2.21 Lakh,"6,873 km",Petrol,Manual
+140,2019 Tata TIAGO JTP 1.2 PETROL,₹5.17 Lakh,"18,025 km",Petrol,Manual
+141,2015 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹4.08 Lakh,"64,384 km",Petrol,Manual
+142,2013 Maruti Wagon R 1.0 LXI CNG,₹3.28 Lakh,"59,303 km",CNG,Manual
+143,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹4.17 Lakh,"57,790 km",Petrol,Manual
+144,2015 Hyundai Elite i20 SPORTZ 1.2,₹5.24 Lakh,"27,625 km",Petrol,Manual
+145,2017 Hyundai Elite i20 ERA 1.2,₹4.59 Lakh,"77,121 km",Petrol,Manual
+146,2020 KIA SONET HTX PLUS 1.0 IMT,₹10.01 Lakh,"35,800 km",Petrol,Manual
+147,2019 Renault Kwid RXT 0.8,₹4.00 Lakh,"3,134 km",Petrol,Manual
+148,2015 Maruti Ciaz ZXI+,₹5.73 Lakh,"67,874 km",Petrol,Manual
+149,2015 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹3.78 Lakh,"60,162 km",Petrol,Manual
+150,2019 Hyundai NEW SANTRO SPORTZ CNG,₹4.68 Lakh,"66,471 km",CNG,Manual
+151,2017 Honda City 1.5L I-VTE V CVT,₹8.50 Lakh,"42,660 km",Petrol,Automatic
+152,2012 Maruti Swift LXI,₹2.93 Lakh,"29,397 km",Petrol,Manual
+153,2016 Hyundai Verna FLUIDIC 1.6 CRDI SX 4S,₹5.55 Lakh,"77,672 km",Diesel,Manual
+154,2017 Honda WR-V 1.2L I-VTEC VX MT,₹6.34 Lakh,"36,574 km",Petrol,Manual
+155,2013 Honda CRV 2.4L 2WD AT,₹6.67 Lakh,"74,534 km",Petrol,Automatic
+156,2014 Maruti Wagon R 1.0 VXI,₹2.84 Lakh,"53,113 km",Petrol,Manual
+157,2022 Honda City 1.5L I-VTEC VX CVT,₹12.61 Lakh,"13,594 km",Petrol,Automatic
+158,2015 Maruti Wagon R 1.0 VXI,₹3.26 Lakh,"91,399 km",Petrol,Manual
+159,2013 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹3.54 Lakh,"34,493 km",Petrol,Manual
+160,2015 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹4.36 Lakh,"38,431 km",Petrol,Manual
+161,2013 Maruti Wagon R 1.0 LXI,₹2.77 Lakh,"34,093 km",Petrol,Manual
+162,2018 Hyundai Elite i20 ASTA 1.2  CVT,₹6.47 Lakh,"39,674 km",CNG,Automatic
+163,2019 Hyundai Elite i20 ASTA 1.2  CVT,₹6.36 Lakh,"25,392 km",Petrol,Automatic
+164,2018 Hyundai NEW SANTRO ASTA MT,₹4.66 Lakh,"18,710 km",Petrol,Manual
+165,2019 Honda Amaze 1.2L I-VTEC V CVT,₹6.38 Lakh,"26,733 km",Petrol,Automatic
+166,2017 Maruti Ertiga ZDI + SHVS,₹7.93 Lakh,"1,10,110 km",Diesel,Manual
+167,2020 Ford FREESTYLE TITANIUM 1.2 PETROL,₹5.95 Lakh,"11,183 km",Petrol,Manual
+168,2022 Hyundai NEW I20 ASTA (O) 1.2 MT,₹8.82 Lakh,"17,575 km",Petrol,Manual
+169,2016 Hyundai Creta SX PLUS AT 1.6 PETROL,₹8.82 Lakh,"68,536 km",Petrol,Automatic
+170,2017 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹4.16 Lakh,"33,576 km",Petrol,Manual
+171,2017 Maruti Ciaz DELTA 1.4 MT PETROL,₹5.40 Lakh,"47,766 km",Petrol,Manual
+172,2015 Maruti Swift ZXI,₹4.54 Lakh,"55,952 km",Petrol,Manual
+173,2017 Renault Kwid RXT 0.8,₹2.89 Lakh,"47,556 km",Petrol,Manual
+174,2021 Toyota YARIS J CVT,₹8.92 Lakh,"17,243 km",Petrol,Automatic
+175,2017 Honda City 1.5L I-VTEC VX CVT,₹8.11 Lakh,"60,973 km",Petrol,Automatic
+176,2017 Tata NEXON XM PETROL,₹5.59 Lakh,"50,623 km",CNG,Manual
+177,2017 Honda City 1.5L I-VTEC VX,₹7.36 Lakh,"76,238 km",Petrol,Manual
+178,2017 Maruti Alto 800 LXI,₹2.81 Lakh,"18,168 km",Petrol,Manual
+179,2019 Maruti S PRESSO VXI+,₹3.61 Lakh,"1,05,114 km",Petrol,Manual
+180,2019 Renault TRIBER RXZ,₹6.17 Lakh,"21,313 km",Petrol,Manual
+181,2016 Hyundai Grand i10 ASTA (O) AT 1.2 KAPPA VTVT,₹4.27 Lakh,"1,15,191 km",Petrol,Automatic
+182,2018 Tata NEXON XM PETROL,₹5.37 Lakh,"83,465 km",Petrol,Manual
+183,2015 Maruti Wagon R 1.0 LXI CNG,₹3.80 Lakh,"47,305 km",CNG,Manual
+184,2020 Hyundai AURA SX PLUS 1.2 AMT CRDI,₹7.17 Lakh,"58,033 km",Diesel,Automatic
+185,2017 Maruti Wagon R 1.0 LXI CNG,₹3.91 Lakh,"80,479 km",CNG,Manual
+186,2016 Maruti Baleno DELTA PETROL 1.2,₹5.36 Lakh,"25,233 km",CNG,Manual
+187,2016 Maruti Baleno DELTA CVT PETROL 1.2,₹5.23 Lakh,"40,945 km",Petrol,Automatic
+188,2021 Maruti S PRESSO VXI (O) CNG,₹5.17 Lakh,"21,903 km",CNG,Manual
+189,2010 Hyundai i10 SPORTZ 1.2,₹1.70 Lakh,"92,421 km",Petrol,Manual
+190,2017 Honda City 1.5L I-VTEC ZX CVT,₹6.85 Lakh,"42,718 km",Petrol,Automatic
+191,2018 Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,₹5.54 Lakh,"21,668 km",Petrol,Automatic
+192,2019 Maruti Alto VXI,₹3.31 Lakh,"33,589 km",Petrol,Manual
+193,2017 Honda City 1.5L I-VTEC ZX CVT,₹8.11 Lakh,"45,419 km",Petrol,Automatic
+194,2018 Maruti Wagon R 1.0 VXI,₹3.87 Lakh,"9,481 km",Petrol,Manual
+195,2017 Maruti Baleno DELTA PETROL 1.2,₹5.02 Lakh,"40,882 km",Petrol,Manual
+196,2017 Hyundai Eon MAGNA PLUS,₹3.17 Lakh,"25,727 km",Petrol,Manual
+197,2018 Jeep Compass LIMITED (O) 1.4 PETROL AT,₹15.07 Lakh,"38,696 km",Petrol,Automatic
+198,2016 Maruti Vitara Brezza ZDI PLUS DUAL TONE,₹6.85 Lakh,"90,974 km",Diesel,Manual
+199,2019 Honda Amaze 1.5L I-DTEC VX CVT,₹7.82 Lakh,"81,453 km",Diesel,Automatic
+200,2019 Maruti Baleno ZETA CVT PETROL 1.2,₹6.46 Lakh,"92,957 km",Petrol,Automatic
+201,2019 Mahindra XUV300 W8 1.5 DIESEL,₹8.78 Lakh,"80,316 km",Diesel,Manual
+202,2016 Maruti Alto 800 LXI,₹2.35 Lakh,"47,233 km",Petrol,Manual
+203,2022 Tata Tiago XT CNG,₹6.23 Lakh,"35,386 km",CNG,Manual
+204,2017 Maruti Ertiga ZDI + SHVS,₹9.28 Lakh,"44,667 km",Diesel,Manual
+205,2019 Tata Harrier XM 2.0L KRYOTEC,₹11.01 Lakh,"44,103 km",Diesel,Manual
+206,2017 Honda City 1.5L I-VTEC V MT,₹6.08 Lakh,"48,661 km",Petrol,Manual
+207,2020 Hyundai NEW SANTRO SPORTZ CNG,₹5.31 Lakh,"56,334 km",CNG,Manual
+208,2017 Maruti Celerio VXI CNG,₹3.82 Lakh,"78,176 km",CNG,Manual
+209,2018 Skoda Rapid STYLE 1.6 MPI AT,₹7.06 Lakh,"17,373 km",Petrol,Automatic
+210,2016 Hyundai Elite i20 ASTA 1.4 CRDI (O),₹5.66 Lakh,"77,147 km",Diesel,Manual
+211,2016 Maruti Baleno DELTA PETROL 1.2,₹5.14 Lakh,"39,148 km",Petrol,Manual
+212,2011 Maruti Swift Dzire VDI,₹3.08 Lakh,"39,728 km",Diesel,Manual
+213,2017 Honda City 1.5L I-VTE V CVT,₹7.14 Lakh,"32,112 km",Petrol,Automatic
+214,2012 Maruti Swift VXI,₹2.83 Lakh,"54,800 km",Petrol,Manual
+215,2019 Honda City 1.5L I-VTEC VX CVT,₹9.58 Lakh,"54,705 km",Petrol,Automatic
+216,2010 Maruti Swift Dzire VXI,₹2.09 Lakh,"82,627 km",Petrol,Manual
+217,2015 Maruti Wagon R 1.0 LXI CNG,₹3.78 Lakh,"61,280 km",CNG,Manual
+218,2018 Skoda Rapid STYLE 1.6 MPI AT,₹7.58 Lakh,"22,077 km",Petrol,Automatic
+219,2016 Maruti Swift VXI,₹4.52 Lakh,"38,837 km",Petrol,Manual
+220,2021 Tata NEXON XZ 1.2,₹8.87 Lakh,"17,852 km",Petrol,Manual
+221,2017 Maruti Wagon R 1.0 VXI,₹3.87 Lakh,"34,895 km",Petrol,Manual
+222,2016 Hyundai Elite i20 SPORTZ 1.2,₹4.91 Lakh,"73,516 km",Petrol,Manual
+223,2018 Honda Jazz 1.2L I-VTEC V,₹5.44 Lakh,"21,404 km",Petrol,Manual
+224,2019 Renault Duster 110 PS RXZ MT DIESEL,₹7.92 Lakh,"89,481 km",Diesel,Manual
+225,2017 Maruti Baleno DELTA CVT PETROL 1.2,₹5.48 Lakh,"32,296 km",Petrol,Automatic
+226,2018 Hyundai Elite i20 ASTA 1.2  CVT,₹6.33 Lakh,"62,469 km",Petrol,Automatic
+227,2020 Volkswagen Polo COMFORTLINE PLUS 1.0L MPI,₹6.05 Lakh,"26,754 km",Petrol,Manual
+228,2013 Maruti Ertiga VXI,₹5.56 Lakh,"66,702 km",CNG,Manual
+229,2016 Honda Jazz 1.2L I-VTEC V AT,₹5.11 Lakh,"55,472 km",Petrol,Automatic
+230,2017 Maruti IGNIS DELTA 1.2 AMT,₹5.45 Lakh,"12,795 km",Petrol,Automatic
+231,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹4.07 Lakh,"15,448 km",Petrol,Manual
+232,2016 Hyundai Eon MAGNA + AIRBAG,₹3.06 Lakh,"18,049 km",Petrol,Manual
+233,2015 Hyundai Elite i20 SPORTZ 1.2,₹4.33 Lakh,"94,232 km",Petrol,Manual
+234,2018 Maruti Ciaz ZETA 1.4  AT PETROL,₹7.40 Lakh,"53,796 km",Petrol,Automatic
+235,2013 Volkswagen Polo HIGHLINE1.2L,₹3.72 Lakh,"50,177 km",Petrol,Manual
+236,2012 Maruti Wagon R 1.0 LXI CNG,₹2.17 Lakh,"96,227 km",CNG,Manual
+237,2018 Hyundai New Elantra 1.6 SX (O) AT DIESEL,₹11.61 Lakh,"48,054 km",Diesel,Automatic
+238,2018 Tata TIGOR XZA PETROL,₹4.28 Lakh,"1,16,384 km",Petrol,Automatic
+239,2017 Maruti Dzire VDI AMT,₹6.36 Lakh,"43,440 km",Diesel,Automatic
+240,2015 Maruti Celerio VXI,₹3.39 Lakh,"29,535 km",Petrol,Manual
+241,2019 Maruti Baleno ALPHA PETROL 1.2,₹6.58 Lakh,"83,303 km",Petrol,Manual
+242,2013 Hyundai i20 MAGNA (O) 1.2,₹3.37 Lakh,"59,000 km",CNG,Manual
+243,2014 Maruti Wagon R 1.0 LXI CNG,₹3.42 Lakh,"76,141 km",CNG,Manual
+244,2016 Hyundai Creta SX PLUS AT 1.6 PETROL,₹9.34 Lakh,"19,020 km",Petrol,Automatic
+245,2013 Maruti Wagon R Stingray VXI,₹3.00 Lakh,"23,592 km",Petrol,Manual
+246,2010 Hyundai i10 SPORTZ 1.2,₹1.67 Lakh,"61,316 km",Petrol,Manual
+247,2017 Maruti Baleno DELTA PETROL 1.2,₹5.09 Lakh,"67,280 km",Petrol,Manual
+248,2017 Honda City 1.5L I-VTEC VX,₹7.39 Lakh,"37,420 km",Petrol,Manual
+249,2016 Maruti Baleno DELTA PETROL 1.2,₹5.17 Lakh,"13,998 km",Petrol,Manual
+250,2019 Maruti Alto LXI CNG,₹3.36 Lakh,"88,748 km",CNG,Manual
+251,2017 Honda City 1.5L I-VTEC VX,₹7.63 Lakh,"29,305 km",Petrol,Manual
+252,2018 Maruti Celerio ZXI,₹4.48 Lakh,"9,866 km",Petrol,Manual
+253,2017 Hyundai Verna 1.6 VTVT S AT,₹6.02 Lakh,"57,160 km",Petrol,Automatic
+254,2015 Maruti Wagon R 1.0 VXI,₹3.11 Lakh,"63,478 km",Petrol,Manual
+255,2017 Honda City 1.5L I-VTEC VX,₹7.19 Lakh,"18,129 km",Petrol,Manual
+256,2021 MG HECTOR SHARP 2.0 DIESEL,₹16.29 Lakh,"25,844 km",Diesel,Manual
+257,2017 Maruti Wagon R 1.0 VXI,₹3.59 Lakh,"37,340 km",Petrol,Manual
+258,2018 Maruti Baleno DELTA DIESEL 1.3,₹5.68 Lakh,"76,735 km",Diesel,Manual
+259,2017 Honda Jazz 1.2L I-VTEC V,₹4.24 Lakh,"77,625 km",Petrol,Manual
+260,2016 Honda Amaze 1.2L I-VTEC SX,₹4.03 Lakh,"47,851 km",Petrol,Manual
+261,2021 Tata ALTROZ XE PETROL,₹6.09 Lakh,"17,013 km",Petrol,Manual
+262,2015 Maruti Celerio VXI CNG,₹3.92 Lakh,"56,930 km",CNG,Manual
+263,2021 Jeep Compass SPORT 1.4 PETROL DCT,₹17.36 Lakh,"21,250 km",Petrol,Automatic
+264,2019 Hyundai NEW SANTRO ERA EXECUTIVE,₹4.18 Lakh,"16,657 km",Petrol,Manual
+265,2016 Hyundai i20 Active 1.4 SX,₹5.27 Lakh,"1,17,160 km",Diesel,Manual
+266,2017 Hyundai New Elantra 2.0 SX(O) AT PETROL,₹9.34 Lakh,"75,962 km",Petrol,Automatic
+267,2016 Hyundai Creta SX PLUS AT 1.6 PETROL,₹8.16 Lakh,"79,827 km",Petrol,Automatic
+268,2021 Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,₹6.36 Lakh,"32,423 km",CNG,Manual
+269,2018 Datsun Go T(O),₹3.28 Lakh,"5,306 km",Petrol,Manual
+270,2017 Renault Kwid RXT 0.8,₹3.06 Lakh,"42,530 km",Petrol,Manual
+271,2017 Jeep Compass LIMITED (O) 2.0 DIESEL,₹11.15 Lakh,"99,924 km",Diesel,Manual
+272,2016 Honda City 1.5L I-VTEC SV,₹4.95 Lakh,"87,292 km",Petrol,Manual
+273,2017 Maruti IGNIS DELTA 1.2 AMT,₹5.04 Lakh,"18,979 km",Petrol,Automatic
+274,2017 Honda City 1.5L I-VTEC VX,₹7.26 Lakh,"38,736 km",Petrol,Manual
+275,2017 Honda BR-V 1.5L I-VTEC S,₹6.34 Lakh,"74,095 km",Petrol,Manual
+276,2016 Maruti Celerio VXI,₹3.41 Lakh,"56,155 km",Petrol,Manual
+277,2017 Maruti Celerio VXI AMT,₹3.88 Lakh,"44,863 km",Petrol,Automatic
+278,2015 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,₹3.59 Lakh,"56,358 km",Petrol,Manual
+279,2017 Maruti Wagon R 1.0 VXI + (O) AMT,₹4.25 Lakh,"29,712 km",Petrol,Automatic
+280,2019 Toyota Glanza V CVT,₹7.00 Lakh,"37,884 km",Petrol,Automatic
+281,2015 Maruti Celerio VXI,₹3.48 Lakh,"18,670 km",Petrol,Manual
+282,2019 Maruti Baleno DELTA CVT PETROL 1.2,₹6.56 Lakh,"41,301 km",Petrol,Automatic
+283,2021 Honda City 1.5L I-VTEC ZX CVT,₹12.48 Lakh,"22,497 km",Petrol,Automatic
+284,2014 Datsun Go A,₹2.20 Lakh,"18,672 km",Petrol,Manual
+285,2019 Maruti Celerio ZXI,₹4.35 Lakh,"9,282 km",Petrol,Manual
+286,2018 Honda City 1.5L I-VTE V CVT,₹7.63 Lakh,"63,253 km",Petrol,Automatic
+287,2015 Mahindra XUV500 W6,₹7.32 Lakh,"94,936 km",Diesel,Manual
+288,2020 Tata TIGOR XZA PLUS PETROL,₹6.22 Lakh,"30,717 km",Petrol,Automatic
+289,2014 Hyundai Elite i20 ASTA 1.4 CRDI,₹4.98 Lakh,"1,07,143 km",Diesel,Manual
+290,2015 Maruti Wagon R 1.0 LXI CNG,₹3.77 Lakh,"67,999 km",CNG,Manual
+291,2017 Maruti Ertiga ZDI + SHVS,₹8.17 Lakh,"84,447 km",Diesel,Manual
+292,2018 Honda Amaze 1.2L I-VTEC V CVT,₹5.98 Lakh,"69,326 km",Petrol,Automatic
+293,2017 Skoda Rapid STYLE 1.5 TDI AT,₹6.13 Lakh,"1,03,928 km",Diesel,Automatic
+294,2018 Maruti Ciaz ZETA 1.5 SHVS MT PETROL,₹8.07 Lakh,"15,940 km",Petrol,Manual
+295,2019 Toyota Glanza V CVT,₹8.19 Lakh,"9,797 km",Petrol,Automatic
+296,2017 Honda City 1.5L I-VTEC VX,₹7.51 Lakh,"31,949 km",Petrol,Manual
+297,2016 Maruti Baleno SIGMA PETROL 1.2,₹4.59 Lakh,"37,359 km",Petrol,Manual
+298,2015 Hyundai Elite i20 ASTA 1.4 CRDI,₹4.95 Lakh,"80,033 km",Diesel,Manual
+299,2021 Maruti New Wagon-R ZXI 1.2 AMT,₹6.14 Lakh,"8,817 km",Petrol,Automatic
+300,2017 Hyundai Elite i20 ASTA 1.2,₹5.51 Lakh,"42,625 km",Petrol,Manual
+301,2022 Hyundai VENUE SX 1.5 CRDI,₹10.48 Lakh,"42,492 km",Diesel,Manual
+302,2018 Maruti Ciaz ZETA 1.5 SHVS MT PETROL,₹6.93 Lakh,"62,649 km",Petrol,Manual
+303,2021 Maruti S PRESSO VXI+,₹4.69 Lakh,"4,538 km",Petrol,Manual
+304,2011 Hyundai i20 SPORTZ 1.4 CRDI,₹2.34 Lakh,"98,422 km",Diesel,Manual
+305,2019 Honda City 1.5L I-VTEC VX CVT,₹9.21 Lakh,"31,963 km",Petrol,Automatic
+306,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹3.34 Lakh,"92,957 km",Petrol,Manual
+307,2018 Hyundai Grand i10 MAGNA U2 1.2 CRDI,₹4.70 Lakh,"1,13,012 km",Diesel,Manual
+308,2017 Skoda Rapid AMBITION 1.5 TDI,₹5.30 Lakh,"1,23,383 km",Diesel,Manual
+309,2018 Tata TIGOR XZA PETROL,₹5.72 Lakh,"23,663 km",CNG,Automatic
+310,2017 Honda Jazz 1.2L I-VTEC V AT,₹5.37 Lakh,"26,261 km",Petrol,Automatic
+311,2015 Hyundai Elite i20 ASTA 1.2,₹4.27 Lakh,"67,007 km",Petrol,Manual
+312,2017 Hyundai Verna 1.6 VTVT SX,₹6.98 Lakh,"45,645 km",Petrol,Manual
+313,2018 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,₹6.92 Lakh,"40,409 km",Petrol,Automatic
+314,2013 Honda City 1.5L I-VTEC V MT,₹3.65 Lakh,"89,401 km",CNG,Manual
+315,2011 Toyota Etios G,₹2.65 Lakh,"47,307 km",Petrol,Manual
+316,2022 Maruti BREZZA ZXI SMART HYBRID DUAL TONE,₹12.18 Lakh,"11,537 km",Petrol,Manual
+317,2019 Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,₹5.62 Lakh,"46,806 km",Petrol,Automatic
+318,2021 Tata Safari XZ PLUS,₹21.00 Lakh,"16,340 km",Diesel,Manual
+319,2015 Hyundai Elite i20 SPORTZ 1.2 (O),₹4.47 Lakh,"65,135 km",Petrol,Manual
+320,2022 Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,₹7.73 Lakh,"7,092 km",CNG,Manual
+321,2012 Hyundai Verna FLUIDIC 1.6 VTVT EX,₹3.54 Lakh,"61,275 km",Petrol,Manual
+322,2019 Hyundai New Elantra 2.0 SX(O) AT PETROL,₹12.05 Lakh,"43,333 km",Petrol,Automatic
+323,2018 Jeep Compass LONGITUDE (O) 2.0 DIESEL,₹11.35 Lakh,"34,469 km",Diesel,Manual
+324,2014 Volkswagen Jetta HIGHLINE TDI AT,₹6.45 Lakh,"74,563 km",Diesel,Automatic
+325,2018 Tata NEXON XM DIESEL,₹6.43 Lakh,"81,108 km",Diesel,Manual
+326,2016 Maruti Celerio VXI CNG,₹4.24 Lakh,"70,855 km",CNG,Manual
+327,2016 Maruti Baleno ZETA CVT PETROL 1.2,₹4.68 Lakh,"1,10,497 km",Petrol,Automatic
+328,2015 Honda Amaze 1.2L I-VTEC S,₹3.74 Lakh,"23,016 km",Petrol,Manual
+329,2017 Maruti IGNIS DELTA 1.2 AMT,₹4.60 Lakh,"26,465 km",Petrol,Automatic
+330,2019 Tata Harrier XZ 2.0L,₹13.81 Lakh,"51,955 km",Diesel,Manual
+331,2013 Volkswagen Polo HIGHLINE1.2L,₹3.54 Lakh,"68,125 km",Petrol,Manual
+332,2023 Maruti BREZZA ZXI SMART HYBRID ,₹12.90 Lakh,"10,117 km",Petrol,Manual
+333,2019 Honda Amaze 1.2L I-VTEC V CVT,₹7.35 Lakh,"15,781 km",Petrol,Automatic
+334,2021 Maruti Ciaz ALPHA 1.5 SHVS PETROL,₹9.35 Lakh,"30,199 km",Petrol,Manual
+335,2020 Ford New Figo TITANIUM 1.2 PETROL MT,₹5.71 Lakh,"10,138 km",Petrol,Manual
+336,2018 Maruti Celerio X ZXI AMT,₹4.41 Lakh,"29,130 km",Petrol,Automatic
+337,2011 Hyundai i20 SPORTZ 1.2,₹2.80 Lakh,"46,875 km",Petrol,Manual
+338,2020 Maruti S Cross ALPHA AT SMART HYBRID,₹10.58 Lakh,"29,182 km",Petrol,Automatic
+339,2018 Honda Amaze 1.2L I-VTEC S CVT,₹6.18 Lakh,"58,210 km",Petrol,Automatic
+340,2019 Honda City 1.5L I-VTEC V MT,₹7.54 Lakh,"27,976 km",Petrol,Manual
+341,2020 Ford Figo Aspire TITANIUM PLUS 1.5 DIESEL,₹6.60 Lakh,"36,802 km",Diesel,Manual
+342,2021 Honda Jazz 1.2L I-VTEC ZX CVT,₹8.84 Lakh,"14,064 km",Petrol,Automatic
+343,2019 Tata Harrier XZ 2.0L,₹13.06 Lakh,"88,987 km",Diesel,Manual
+344,2013 Hyundai i10 MAGNA 1.1,₹2.75 Lakh,"22,945 km",Petrol,Manual
+345,2017 Honda City 1.5L I-VTEC VX,₹6.73 Lakh,"85,686 km",Petrol,Manual
+346,2017 Hyundai Elite i20 ASTA 1.2 (O),₹4.82 Lakh,"36,831 km",Petrol,Manual
+347,2014 Maruti Swift Dzire VXI,₹4.11 Lakh,"32,588 km",Petrol,Manual
+348,2016 Volkswagen Ameo HIGHLINE1.2L,₹4.58 Lakh,"81,105 km",CNG,Manual
+349,2016 Maruti Ertiga VDI SHVS,₹8.35 Lakh,"49,428 km",Diesel,Manual
+350,2016 Hyundai Verna 1.6 VTVT SX AT,₹5.99 Lakh,"65,750 km",Petrol,Automatic
+351,2019 Honda Amaze 1.5L I-DTEC VX CVT,₹7.42 Lakh,"55,377 km",Diesel,Automatic
+352,2017 Maruti Wagon R 1.0 VXI,₹3.75 Lakh,"74,500 km",Petrol,Manual
+353,2018 Honda Jazz 1.2L I-VTEC VX,₹5.03 Lakh,"26,068 km",Petrol,Manual
+354,2014 Maruti Celerio VXI AMT,₹3.69 Lakh,"21,126 km",Petrol,Automatic
+355,2015 Honda Jazz 1.2L I-VTEC VX,₹3.93 Lakh,"72,613 km",Petrol,Manual
+356,2020 Maruti S PRESSO VXI+,₹4.01 Lakh,"23,973 km",Petrol,Manual
+357,2022 Maruti Vitara Brezza ZXI PLUS AT SHVS,₹11.55 Lakh,"2,080 km",Petrol,Automatic
+358,2021 Tata TIGOR XZ PLUS PETROL,₹6.02 Lakh,"33,813 km",Petrol,Manual
+359,2016 Maruti Alto 800 LXI,₹2.67 Lakh,"22,625 km",Petrol,Manual
+360,2021 Tata Safari XZ PLUS,₹17.33 Lakh,"67,909 km",Diesel,Manual
+361,2017 Hyundai Creta E PLUS 1.6 PETROL,₹6.84 Lakh,"1,04,303 km",Petrol,Manual
+362,2018 Honda WR-V 1.2L I-VTEC VX MT,₹6.10 Lakh,"44,113 km",Petrol,Manual
+363,2019 Maruti Baleno DELTA CVT PETROL 1.2,₹6.25 Lakh,"16,524 km",Petrol,Automatic
+364,2016 Hyundai Elite i20 MAGNA 1.2,₹4.88 Lakh,"41,927 km",Petrol,Manual
+365,2014 Maruti Wagon R 1.0 LXI CNG,₹3.43 Lakh,"87,074 km",CNG,Manual
+366,2017 Honda City 1.5L I-VTEC SV,₹6.52 Lakh,"68,017 km",Petrol,Manual
+367,2017 Maruti Dzire VDI AMT,₹6.35 Lakh,"1,04,768 km",Diesel,Automatic
+368,2017 Hyundai Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,₹4.08 Lakh,"53,993 km",Petrol,Manual
+369,2015 Maruti Wagon R 1.0 LXI CNG,₹3.27 Lakh,"91,511 km",CNG,Manual
+370,2015 Honda City 1.5L I-VTEC SV,₹4.99 Lakh,"66,065 km",Petrol,Manual
+371,2017 Hyundai Xcent E+,₹4.90 Lakh,"22,842 km",Petrol,Manual
+372,2014 Maruti Wagon R 1.0 LXI,₹3.28 Lakh,"31,414 km",Petrol,Manual
+373,2014 Honda City 1.5L I-VTEC VX,₹5.01 Lakh,"83,785 km",Petrol,Manual
+374,2018 Maruti Baleno DELTA PETROL 1.2,₹5.40 Lakh,"33,546 km",Petrol,Manual
+375,2011 Hyundai i10 SPORTZ 1.2,₹2.22 Lakh,"31,026 km",Petrol,Manual
+376,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹3.54 Lakh,"93,885 km",Petrol,Manual
+377,2016 Hyundai i10 MAGNA 1.1,₹3.27 Lakh,"43,204 km",Petrol,Manual
+378,2019 Honda City 1.5L I-VTEC VX,₹8.61 Lakh,"12,807 km",Petrol,Manual
+379,2019 Renault Kwid RXT 1.0 AMT (O),₹3.84 Lakh,"33,363 km",Petrol,Automatic
+380,2018 Honda WR-V 1.2L I-VTEC VX MT,₹6.37 Lakh,"71,123 km",Petrol,Manual
+381,2014 Hyundai Xcent S 1.2,₹3.64 Lakh,"44,494 km",Petrol,Manual
+382,2018 Hyundai Creta E PLUS 1.6 PETROL,₹8.21 Lakh,"50,792 km",Petrol,Manual
+383,2012 Maruti Swift VXI,₹3.00 Lakh,"84,182 km",Petrol,Manual
+384,2015 Honda City 1.5L I-VTEC VX CVT,₹6.20 Lakh,"41,038 km",Petrol,Automatic
+385,2014 Maruti Swift Dzire ZXI,₹4.11 Lakh,"72,270 km",Petrol,Manual
+386,2018 Maruti IGNIS ZETA 1.2,₹4.46 Lakh,"82,391 km",Petrol,Manual
+387,2015 Honda CRV 2.0L I-VTEC 2WD AT,₹8.16 Lakh,"1,06,836 km",Petrol,Automatic
+388,2016 Maruti Ciaz ZXI+ AT,₹5.39 Lakh,"1,04,635 km",Petrol,Automatic
+389,2013 Maruti Alto 800 LXI CNG,₹2.15 Lakh,"92,442 km",CNG,Manual
+390,2019 Toyota Glanza V CVT,₹6.78 Lakh,"59,520 km",Petrol,Automatic
+391,2019 Hyundai Verna 1.6 VTVT SX (O) AT,₹8.76 Lakh,"55,015 km",Petrol,Automatic
+392,2017 Maruti S Cross DELTA 1.3,₹7.28 Lakh,"95,603 km",Diesel,Manual
+393,2020 Maruti Ciaz S 1.5 MT PETROL,₹8.30 Lakh,"42,385 km",Petrol,Manual
+394,2016 Hyundai Creta SX PLUS AT 1.6 PETROL,₹8.63 Lakh,"83,402 km",Petrol,Automatic
+395,2021 Toyota URBAN CRUISER PREMIUM GRADE AT,₹10.86 Lakh,"9,634 km",Petrol,Automatic
+396,2018 Ford FREESTYLE TREND PLUS 1.2 PETROL,₹4.99 Lakh,"34,075 km",Petrol,Manual
+397,2020 Hyundai GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,₹5.94 Lakh,"16,546 km",Petrol,Manual
+398,2011 Hyundai i20 SPORTZ 1.2 VTVT,₹2.60 Lakh,"80,631 km",Petrol,Manual
+399,2013 Hyundai i20 MAGNA 1.2,₹3.62 Lakh,"25,532 km",Petrol,Manual
+400,2012 Honda City 1.5L I-VTEC V MT SUNROOF,₹3.80 Lakh,"75,850 km",Petrol,Manual
+401,2022 MG HECTOR SHARP 2.0 DIESEL,₹17.13 Lakh,"23,144 km",Diesel,Manual
+402,2017 Honda WR-V 1.2L I-VTEC VX MT,₹6.43 Lakh,"42,679 km",Petrol,Manual
+403,2022 Volkswagen VIRTUS HIGHLINE TSI 1.0 MT,₹12.98 Lakh,"15,098 km",Petrol,Manual
+404,2018 Hyundai NEW SANTRO SPORTZ CNG,₹4.09 Lakh,"1,25,815 km",CNG,Manual
+405,2019 Ford Ecosport TITANIUM + 1.5L DIESEL,₹7.72 Lakh,"44,724 km",Diesel,Manual
+406,2017 Maruti Wagon R 1.0 VXI+ (O) MT,₹4.16 Lakh,"19,526 km",Petrol,Manual
+407,2012 Maruti Ertiga VDI,₹5.76 Lakh,"53,045 km",Diesel,Manual
+408,2019 Maruti Baleno ZETA CVT PETROL 1.2,₹7.42 Lakh,"24,499 km",Petrol,Automatic
+409,2021 Maruti New Wagon-R LXI 1.0,₹5.45 Lakh,"9,219 km",Petrol,Manual
+410,2018 Maruti Dzire VXI AMT,₹6.29 Lakh,"36,318 km",Petrol,Automatic
+411,2016 Maruti Ciaz ZXI AT,₹5.03 Lakh,"1,03,093 km",Petrol,Automatic
+412,2015 Toyota Etios V,₹3.68 Lakh,"63,018 km",Petrol,Manual
+413,2018 Datsun Redi Go S 1.0 AMT,₹2.70 Lakh,"28,050 km",Petrol,Automatic
+414,2017 Hyundai Creta E PLUS 1.6 PETROL,₹8.11 Lakh,"26,370 km",Petrol,Manual
+415,2018 Hyundai NEW SANTRO SPORTZ MT,₹4.20 Lakh,"29,692 km",Petrol,Manual
+416,2022 Maruti Baleno ALPHA 1.2 AGS,₹9.19 Lakh,"19,548 km",Petrol,Automatic
+417,2020 Maruti Ciaz ALPHA  AT 1.5 SHVS PETROL,₹9.47 Lakh,"10,096 km",Petrol,Automatic
+418,2013 Skoda Rapid ELEGANCE 1.6 TDI CR MT,₹3.43 Lakh,"83,038 km",Diesel,Manual
+419,2020 Maruti Ciaz ALPHA  AT 1.5 SHVS PETROL,₹8.79 Lakh,"27,830 km",Petrol,Automatic
+420,2015 Volkswagen Polo COMFORTLINE 1.2L,₹3.97 Lakh,"87,969 km",Petrol,Manual
+421,2013 Maruti Wagon R 1.0 LXI,₹2.86 Lakh,"12,575 km",Petrol,Manual
+422,2014 Honda CRV 2.4 AWD AT,₹7.75 Lakh,"61,993 km",Petrol,Automatic
+423,2016 Honda Jazz 1.2L I-VTEC V AT,₹5.37 Lakh,"21,007 km",Petrol,Automatic
+424,2016 Maruti Wagon R 1.0 LXI CNG,₹3.57 Lakh,"94,290 km",CNG,Manual
+425,2014 Hyundai i20 SPORTZ 1.2,₹3.82 Lakh,"23,143 km",Petrol,Manual
+426,2018 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,₹4.55 Lakh,"59,942 km",Petrol,Manual
+427,2018 Maruti IGNIS ALPHA 1.2 AMT,₹6.05 Lakh,"16,948 km",Petrol,Automatic
+428,2021 MG HECTOR SHARP HYBRID 1.5 PETROL,₹15.14 Lakh,"30,233 km",Petrol,Manual
+429,2019 Renault TRIBER RXZ,₹5.48 Lakh,"63,655 km",Petrol,Manual
+430,2021 Renault Kwid CLIMBER 1.0 AMT (O),₹4.75 Lakh,"9,568 km",Petrol,Automatic
+431,2022 Tata Harrier XZA PLUS 2.0L DARK EDITION,₹20.04 Lakh,"29,595 km",Diesel,Automatic
+432,2018 Datsun Go Plus T,₹3.97 Lakh,"35,188 km",Petrol,Manual
+433,2011 Hyundai i10 MAGNA 1.2,₹2.10 Lakh,"10,577 km",Petrol,Manual
+434,2015 Hyundai Xcent SX AT 1.2 (O),₹4.56 Lakh,"72,194 km",Petrol,Automatic
+435,2021 Hyundai AURA SX 1.2 (O),₹7.75 Lakh,"16,365 km",Petrol,Manual
+436,2020 KIA SONET GTX PLUS 1.0 IMT,₹10.50 Lakh,"48,383 km",Petrol,Manual
+437,2016 Honda Jazz 1.2L I-VTEC VX,₹4.82 Lakh,"32,058 km",Petrol,Manual
+438,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹4.42 Lakh,"59,305 km",Petrol,Manual
+439,2017 Volkswagen Ameo COMFORTLINE 1.5L,₹4.63 Lakh,"83,100 km",Diesel,Manual
+440,2011 Toyota Etios Liva G,₹2.62 Lakh,"79,607 km",Petrol,Manual
+441,2019 Maruti Ciaz ALPHA DIESEL 1.5,₹8.81 Lakh,"55,317 km",Diesel,Manual
+442,2019 Jeep Compass LIMITED 1.4 PETROL AT,₹13.88 Lakh,"51,693 km",Petrol,Automatic
+443,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹3.72 Lakh,"59,809 km",Petrol,Manual
+444,2017 Hyundai New Elantra 1.6 SX AT O,₹13.35 Lakh,"47,713 km",Diesel,Automatic
+445,2014 Honda City 1.5L I-VTEC SV CVT,₹5.39 Lakh,"79,407 km",Petrol,Automatic
+446,2013 Hyundai Verna FLUIDIC 1.6 VTVT SX,₹3.94 Lakh,"82,112 km",Petrol,Manual
+447,2016 Hyundai Creta SX PLUS AT 1.6 PETROL,₹9.41 Lakh,"81,767 km",Petrol,Automatic
+448,2013 Skoda Rapid AMBITION 1.6 TDI CR MT PLUS,₹3.45 Lakh,"64,018 km",Diesel,Manual
+449,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹4.48 Lakh,"47,121 km",CNG,Manual
+450,2017 Maruti Wagon R 1.0 VXI,₹4.03 Lakh,"13,920 km",Petrol,Manual
+451,2013 Maruti Ertiga VXI,₹5.11 Lakh,"55,773 km",Petrol,Manual
+452,2019 Maruti Baleno ALPHA PETROL 1.2,₹6.33 Lakh,"56,557 km",Petrol,Manual
+453,2019 Hyundai VENUE SX PLUS 1.0 TURBO DCT,₹8.58 Lakh,"1,13,346 km",Petrol,Automatic
+454,2017 Maruti Alto 800 VXI,₹3.19 Lakh,"3,442 km",Petrol,Manual
+455,2017 Maruti Wagon R 1.0 LXI CNG,₹3.80 Lakh,"92,589 km",CNG,Manual
+456,2016 Renault Kwid RXT 0.8,₹2.73 Lakh,"66,266 km",Petrol,Manual
+457,2012 Maruti Swift Dzire VXI,₹3.29 Lakh,"82,318 km",Petrol,Manual
+458,2019 Mahindra XUV300 W8 (O) 1.2 PETROL,₹8.39 Lakh,"69,490 km",Petrol,Manual
+459,2011 Toyota Etios V,₹2.23 Lakh,"97,364 km",Petrol,Manual
+460,2012 Hyundai i10 ERA 1.1,₹2.05 Lakh,"31,370 km",Petrol,Manual
+461,2018 Maruti Baleno ZETA CVT PETROL 1.2,₹6.57 Lakh,"29,002 km",Petrol,Automatic
+462,2019 Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,₹6.17 Lakh,"20,873 km",Petrol,Automatic
+463,2012 Honda Brio EX MT,₹2.45 Lakh,"39,621 km",CNG,Manual
+464,2017 Hyundai Creta SX PLUS AT 1.6 PETROL,₹9.22 Lakh,"45,452 km",Petrol,Automatic
+465,2016 Hyundai i20 Active 1.4 SX,₹5.42 Lakh,"1,19,312 km",Diesel,Manual
+466,2019 Ford Ecosport TITANIUM + 1.5L PETROL AT,₹8.52 Lakh,"27,910 km",Petrol,Automatic
+467,2021 Maruti New Wagon-R LXI CNG 1.0,₹5.88 Lakh,"32,970 km",CNG,Manual
+468,2018 Hyundai Creta SX AT 1.6 PETROL,₹10.88 Lakh,"58,536 km",Petrol,Automatic
+469,2021 Tata NEXON XZA PLUS (O) PETROL DARK EDITION,₹10.62 Lakh,"48,451 km",Petrol,Automatic
+470,2011 Hyundai i10 SPORTZ 1.2,₹2.14 Lakh,"29,938 km",Petrol,Manual
+471,2017 Maruti Celerio ZXI,₹4.09 Lakh,"37,271 km",CNG,Manual
+472,2020 Maruti S PRESSO VXI+,₹4.15 Lakh,"17,853 km",Petrol,Manual
+473,2019 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,₹7.84 Lakh,"11,136 km",Petrol,Manual
+474,2012 Hyundai i20 SPORTZ 1.2,₹3.01 Lakh,"50,381 km",Petrol,Manual
+475,2017 Volkswagen Vento HIGHLINE PETROL AT,₹6.70 Lakh,"44,708 km",Petrol,Automatic
+476,2021 Tata ALTROZ XZ 1.5 RTQ,₹8.10 Lakh,"43,792 km",Diesel,Manual
+477,2020 Hyundai AURA SX 1.2 (O),₹7.12 Lakh,"26,560 km",Petrol,Manual
+478,2015 Hyundai i20 Active 1.2 S,₹4.86 Lakh,"49,784 km",Petrol,Manual
+479,2018 Tata NEXON XM PETROL,₹6.50 Lakh,"39,594 km",Petrol,Manual
+480,2018 Tata TIGOR XZA PETROL,₹5.43 Lakh,"48,115 km",Petrol,Automatic
+481,2018 Hyundai Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,₹5.44 Lakh,"23,569 km",Petrol,Automatic
+482,2021 Hyundai GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,₹7.17 Lakh,"23,986 km",Petrol,Automatic
+483,2017 Jeep Compass LIMITED 2.0 DIESEL,₹10.67 Lakh,"65,841 km",Diesel,Manual
+484,2020 Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,₹6.52 Lakh,"40,882 km",Petrol,Automatic
+485,2018 Hyundai Verna 1.6 VTVT SX (O) AT,₹8.84 Lakh,"63,815 km",Petrol,Automatic
+486,2017 Toyota Corolla Altis VL CVT PETROL,₹11.07 Lakh,"56,356 km",Petrol,Automatic
+487,2016 Maruti Baleno ZETA PETROL 1.2,₹5.10 Lakh,"46,377 km",Petrol,Manual
+488,2012 Maruti Wagon R 1.0 LXI CNG,₹2.53 Lakh,"66,379 km",CNG,Manual
+489,2019 Honda City 1.5L I-VTEC VX CVT,₹9.09 Lakh,"24,522 km",Petrol,Automatic
+490,2011 Hyundai i10 MAGNA 1.1,₹2.04 Lakh,"43,300 km",Petrol,Manual
+491,2018 Maruti Baleno ALPHA CVT PETROL 1.2,₹6.47 Lakh,"56,550 km",Petrol,Automatic
+492,2022 Tata TIGOR XZ PLUS CNG,₹7.72 Lakh,"13,907 km",CNG,Manual
+493,2017 Maruti Celerio VXI CNG,₹3.94 Lakh,"89,815 km",CNG,Manual
+494,2022 Tata Harrier XZA PLUS 2.0L KAZIRANGA,₹19.86 Lakh,"47,235 km",Diesel,Automatic
+495,2019 Maruti New Wagon-R LXI CNG 1.0,₹5.38 Lakh,"66,502 km",CNG,Manual
+496,2019 Honda Jazz 1.2L I-VTEC VX CVT,₹6.20 Lakh,"47,822 km",Petrol,Automatic
+497,2014 Maruti Wagon R 1.0 LXI CNG,₹3.09 Lakh,"41,979 km",CNG,Manual
+498,2019 Honda Jazz 1.2L I-VTEC VX CVT,₹7.18 Lakh,"18,843 km",Petrol,Automatic
+499,2018 Maruti Baleno ZETA CVT PETROL 1.2,₹5.53 Lakh,"61,450 km",Petrol,Automatic
+500,2016 Hyundai Creta SX PLUS AT 1.6 PETROL,₹9.27 Lakh,"73,228 km",Petrol,Automatic
+501,2021 Tata ALTROZ XZ DIESEL,₹7.64 Lakh,"41,442 km",Diesel,Manual
+502,2021 Tata NEXON XZA PLUS SUNROOF DUAL TONE PETROL,₹10.81 Lakh,"9,755 km",Petrol,Automatic
+503,2015 Hyundai Elite i20 SPORTZ 1.2,₹4.57 Lakh,"50,518 km",Petrol,Manual
+504,2019 Maruti New Wagon-R LXI CNG 1.0,₹5.49 Lakh,"61,997 km",CNG,Manual
+505,2014 Volkswagen Polo HIGHLINE1.2L,₹4.04 Lakh,"83,792 km",Petrol,Manual
+506,2017 Hyundai Creta SX PLUS AT 1.6 PETROL,₹8.82 Lakh,"60,410 km",Petrol,Automatic
+507,2021 Hyundai VENUE SX PLUS 1.0 TURBO DCT,₹10.05 Lakh,"36,818 km",Petrol,Automatic
+508,2021 Maruti New Wagon-R LXI CNG (O) 1.0,₹6.35 Lakh,"13,333 km",CNG,Manual
+509,2018 Tata NEXON XZA PLUS DIESEL,₹6.98 Lakh,"1,09,484 km",Diesel,Automatic
+510,2012 Maruti Ertiga VDI,₹4.91 Lakh,"1,06,980 km",Diesel,Manual
+511,2018 Jeep Compass LIMITED (O) 1.4 PETROL AT,₹12.18 Lakh,"82,744 km",Petrol,Automatic
+512,2015 Maruti Swift ZDI,₹5.69 Lakh,"55,982 km",Diesel,Manual
+513,2014 Maruti Wagon R 1.0 LXI CNG,₹3.07 Lakh,"56,662 km",CNG,Manual
+514,2015 Hyundai Elite i20 ASTA 1.2,₹4.76 Lakh,"39,003 km",Petrol,Manual
+515,2015 Maruti Wagon R 1.0 LXI CNG,₹3.46 Lakh,"72,957 km",CNG,Manual
+516,2013 Hyundai i20 SPORTZ 1.2,₹3.22 Lakh,"90,372 km",Petrol,Manual
+517,2020 Renault TRIBER RXT AMT,₹6.47 Lakh,"19,943 km",Petrol,Automatic
+518,2017 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹4.73 Lakh,"77,988 km",CNG,Manual
+519,2014 Hyundai Eon MAGNA +,₹2.44 Lakh,"46,955 km",Petrol,Manual
+520,2014 Maruti Wagon R 1.0 LXI CNG,₹3.06 Lakh,"96,139 km",CNG,Manual
+521,2012 Honda Brio S MT,₹2.31 Lakh,"54,795 km",Petrol,Manual
+522,2018 Datsun Redi Go T(O) 1.0 AMT,₹2.98 Lakh,"16,480 km",Petrol,Automatic
+523,2011 Hyundai i10 SPORTZ 1.2,₹2.16 Lakh,"50,415 km",Petrol,Manual
+524,2015 Maruti Wagon R 1.0 LXI CNG,₹3.63 Lakh,"84,850 km",CNG,Manual
+525,2016 Maruti Baleno DELTA PETROL 1.2,₹5.05 Lakh,"43,273 km",Petrol,Manual
+526,2012 Hyundai i20 SPORTZ 1.2,₹3.12 Lakh,"38,105 km",Petrol,Manual
+527,2019 Hyundai NEW SANTRO SPORTZ CNG,₹4.89 Lakh,"55,438 km",CNG,Manual
+528,2017 Hyundai Creta SX PLUS AT 1.6 PETROL,₹9.28 Lakh,"1,00,505 km",Petrol,Automatic
+529,2015 Maruti Wagon R 1.0 LXI CNG,₹3.64 Lakh,"37,064 km",CNG,Manual
+530,2022 Maruti Dzire ZXI CNG,₹8.63 Lakh,"33,050 km",CNG,Manual
+531,2016 Maruti Alto 800 LXI CNG,₹2.96 Lakh,"64,842 km",CNG,Manual
+532,2017 Hyundai Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,₹4.13 Lakh,"75,841 km",Petrol,Manual
+533,2019 Maruti Baleno ZETA CVT PETROL 1.2,₹7.15 Lakh,"9,431 km",Petrol,Automatic
+534,2020 Renault Kwid RXT 1.0 AMT (O),₹4.84 Lakh,"26,105 km",Petrol,Automatic
+535,2020 Ford FREESTYLE TITANIUM PLUS 1.5 DIESEL,₹6.86 Lakh,"39,998 km",Diesel,Manual
+536,2022 Tata Tiago XM CNG,₹6.08 Lakh,"23,255 km",CNG,Manual
+537,2013 Honda Brio S MT,₹2.63 Lakh,"91,080 km",Petrol,Manual
+538,2014 Maruti Celerio VXI AMT,₹3.25 Lakh,"44,228 km",Petrol,Automatic
+539,2016 Maruti Celerio VXI,₹3.54 Lakh,"61,274 km",Petrol,Manual
+540,2012 Honda Brio S MT,₹2.71 Lakh,"31,399 km",Petrol,Manual
+541,2015 Maruti Celerio VXI,₹3.48 Lakh,"51,010 km",Petrol,Manual
+542,2015 Hyundai i10 SPORTZ 1.1,₹3.08 Lakh,"48,909 km",Petrol,Manual
+543,2014 Maruti Celerio VXI CNG,₹3.75 Lakh,"74,902 km",CNG,Manual
+544,2011 Hyundai i10 MAGNA 1.2,₹2.13 Lakh,"48,025 km",Petrol,Manual
+545,2018 Toyota YARIS VX MT,₹7.91 Lakh,"30,443 km",Petrol,Manual
+546,2017 Nissan Micra Active XV,₹3.73 Lakh,"61,446 km",CNG,Manual
+547,2012 Maruti Wagon R 1.0 VXI,₹2.52 Lakh,"84,468 km",Petrol,Manual
+548,2012 Hyundai i10 SPORTZ 1.2,₹2.60 Lakh,"52,416 km",Petrol,Manual
+549,2019 Mahindra XUV300 W8 1.5 DIESEL,₹9.53 Lakh,"51,525 km",Diesel,Manual
+550,2018 Hyundai Creta SX AT 1.6 PETROL,₹10.89 Lakh,"44,438 km",Petrol,Automatic
+551,2016 Renault Kwid RXT 0.8 (O),₹3.04 Lakh,"24,146 km",Petrol,Manual
+552,2018 Ford Ecosport TITANIUM + 1.5L PETROL AT,₹7.93 Lakh,"53,768 km",Petrol,Automatic
+553,2013 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹3.70 Lakh,"56,680 km",Petrol,Manual
+554,2013 Hyundai i10 ERA 1.1,₹2.19 Lakh,"38,912 km",Petrol,Manual
+555,2017 Volkswagen Vento HIGHLINE 1.5 AT,₹6.17 Lakh,"1,12,599 km",Diesel,Automatic
+556,2015 Maruti Wagon R 1.0 LXI CNG,₹3.64 Lakh,"70,456 km",CNG,Manual
+557,2014 Maruti Wagon R 1.0 LXI CNG,₹3.12 Lakh,"82,526 km",CNG,Manual
+558,2013 Nissan Micra XV CVT,₹3.07 Lakh,"93,487 km",CNG,Automatic
+559,2022 Tata Tiago XZ PLUS CNG,₹6.70 Lakh,"42,625 km",CNG,Manual
+560,2020 Skoda Rapid AMBITION TSI,₹8.05 Lakh,"22,978 km",Petrol,Manual
+561,2022 Tata Tiago XZ PLUS CNG,₹7.59 Lakh,"6,461 km",CNG,Manual
+562,2012 Honda Brio S MT,₹2.59 Lakh,"89,745 km",CNG,Manual
+563,2017 Maruti Alto K10 VXI (O) AMT,₹3.39 Lakh,"32,040 km",Petrol,Automatic
+564,2019 Tata NEXON XZA PLUS DIESEL,₹8.99 Lakh,"99,105 km",Diesel,Automatic
+565,2011 Maruti Wagon R 1.0 VXI,₹2.20 Lakh,"41,074 km",Petrol,Manual
+566,2019 Maruti S PRESSO VXI+,₹4.53 Lakh,"27,611 km",Petrol,Manual
+567,2017 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,₹4.33 Lakh,"24,104 km",Petrol,Manual
+568,2016 Maruti Alto K10 VXI,₹3.17 Lakh,"58,710 km",Petrol,Manual
+569,2020 Maruti Alto LXI OPT CNG,₹4.49 Lakh,"15,222 km",CNG,Manual
+570,2015 Maruti Wagon R 1.0 LXI CNG,₹3.19 Lakh,"60,474 km",CNG,Manual
+571,2016 Maruti Ertiga VXI,₹7.31 Lakh,"41,661 km",Petrol,Manual
+572,2017 Hyundai Creta SX PLUS AT 1.6 PETROL,₹8.64 Lakh,"86,021 km",Petrol,Automatic
+573,2021 Maruti Baleno ZETA CVT PETROL 1.2,₹8.48 Lakh,"10,412 km",Petrol,Automatic
+574,2013 Volkswagen Polo COMFORTLINE 1.2L PETROL,₹3.67 Lakh,"61,568 km",Petrol,Manual
+575,2020 Tata TIGOR XZA PLUS PETROL,₹7.24 Lakh,"10,957 km",Petrol,Automatic
+576,2017 Maruti Baleno ALPHA PETROL 1.2,₹5.67 Lakh,"67,369 km",Petrol,Manual
+577,2019 Jeep Compass LIMITED PLUS PETROL AT,₹15.31 Lakh,"51,488 km",Petrol,Automatic
+578,2015 Honda Brio VX AT,₹4.47 Lakh,"27,861 km",Petrol,Automatic
+579,2021 Maruti New Wagon-R ZXI 1.2 AMT,₹6.35 Lakh,"23,662 km",Petrol,Automatic
+580,2021 Maruti S PRESSO VXI+,₹4.80 Lakh,"3,580 km",Petrol,Manual
+581,2017 Toyota Corolla Altis VL CVT PETROL,₹11.48 Lakh,"61,520 km",Petrol,Automatic
+582,2012 Honda City 1.5L I-VTEC V MT,₹4.08 Lakh,"48,209 km",CNG,Manual
+583,2015 Maruti Wagon R 1.0 VXI,₹3.36 Lakh,"45,937 km",Petrol,Manual
+584,2020 Tata ALTROZ XZ PETROL,₹7.68 Lakh,"8,223 km",Petrol,Manual
+585,2019 Hyundai Elite i20 ASTA (O) CVT,₹7.07 Lakh,"56,590 km",Petrol,Automatic
+586,2020 Volkswagen Vento HIGHLINE PLUS 1.0L TSI AT,₹9.27 Lakh,"89,509 km",Petrol,Automatic
+587,2017 Maruti Wagon R 1.0 LXI CNG,₹4.34 Lakh,"21,482 km",CNG,Manual
+588,2022 Maruti Ciaz ZETA AT 1.5  SHVS PETROL,₹10.69 Lakh,"7,016 km",Petrol,Automatic
+589,2019 Hyundai GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,₹6.39 Lakh,"15,742 km",Petrol,Manual
+590,2015 Honda Amaze 1.2L I-VTEC SX,₹4.32 Lakh,"36,483 km",Petrol,Manual
+591,2014 Maruti Wagon R 1.0 LXI CNG,₹3.16 Lakh,"63,639 km",CNG,Manual
+592,2012 Maruti Wagon R 1.0 VXI,₹2.63 Lakh,"35,556 km",Petrol,Manual
+593,2020 Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,₹6.16 Lakh,"67,171 km",Petrol,Automatic
+594,2016 Hyundai Creta SX PLUS AT 1.6 PETROL,₹10.18 Lakh,"25,730 km",Petrol,Automatic
+595,2017 Hyundai Creta SX PLUS AT 1.6 PETROL,₹10.11 Lakh,"57,677 km",Petrol,Automatic
+596,2021 Maruti New Wagon-R LXI CNG 1.0,₹5.71 Lakh,"58,947 km",CNG,Manual
+597,2013 Hyundai i20 SPORTZ 1.2,₹3.47 Lakh,"20,944 km",Petrol,Manual
+598,2017 Maruti IGNIS SIGMA 1.2,₹4.81 Lakh,"27,267 km",Petrol,Manual
+599,2021 Maruti New Wagon-R VXI (O) 1.2,₹5.96 Lakh,"19,471 km",Petrol,Manual
+600,2014 Maruti Wagon R 1.0 LXI CNG,₹3.06 Lakh,"55,726 km",CNG,Manual
+601,2018 Jeep Compass LONGITUDE 2.0 DIESEL,₹12.61 Lakh,"44,734 km",Diesel,Manual
+602,2023 Renault Kwid CLIMBER AMT 1.0,₹6.10 Lakh,"4,634 km",Petrol,Automatic
+603,2014 Maruti Wagon R 1.0 LXI CNG,₹3.20 Lakh,"58,461 km",CNG,Manual
+604,2014 Volkswagen Polo HIGHLINE1.2L,₹4.34 Lakh,"55,019 km",Petrol,Manual
+605,2015 Maruti Swift ZDI,₹5.56 Lakh,"1,08,230 km",Diesel,Manual
+606,2016 Hyundai Elite i20 SPORTZ 1.2,₹4.95 Lakh,"73,116 km",Petrol,Manual
+607,2021 Hyundai AURA S 1.2 CNG,₹8.09 Lakh,"25,396 km",CNG,Manual
+608,2021 Maruti Celerio ZXI (O),₹5.86 Lakh,"22,897 km",Petrol,Manual
+609,2019 Tata NEXON XZA PLUS DIESEL,₹9.16 Lakh,"51,506 km",Diesel,Automatic
+610,2020 Tata Tiago XT PETROL,₹5.74 Lakh,"51,254 km",Petrol,Manual
+611,2014 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹4.03 Lakh,"74,933 km",Petrol,Manual
+612,2023 Tata TIGOR XZA PLUS PETROL,₹7.93 Lakh,"8,566 km",Petrol,Automatic
+613,2019 Tata Tiago XZ PLUS DIESEL,₹5.47 Lakh,"64,420 km",Diesel,Manual
+614,2016 Hyundai Grand i10 ASTA (O) AT 1.2 KAPPA VTVT,₹5.15 Lakh,"46,182 km",Petrol,Automatic
+615,2017 Maruti S Cross ZETA 1.3,₹7.33 Lakh,"41,227 km",Diesel,Manual
+616,2017 Hyundai Creta SX PLUS AT 1.6 PETROL,₹9.57 Lakh,"90,305 km",Petrol,Automatic
+617,2018 Ford Ecosport TITANIUM + 1.5L PETROL AT,₹8.19 Lakh,"40,624 km",Petrol,Automatic
+618,2016 Honda Amaze 1.2L I-VTEC E,₹4.10 Lakh,"37,143 km",Petrol,Manual
+619,2014 Hyundai i10 SPORTZ 1.1,₹3.22 Lakh,"58,868 km",Petrol,Manual
+620,2015 Maruti Celerio VXI CNG,₹4.51 Lakh,"52,868 km",CNG,Manual
+621,2015 Honda City 1.5L I-VTEC VX CVT,₹6.17 Lakh,"68,912 km",Petrol,Automatic
+622,2018 Tata TIGOR XZA PETROL,₹5.52 Lakh,"50,755 km",Petrol,Automatic
+623,2020 Maruti New Wagon-R VXI 1.0 AMT,₹5.57 Lakh,"51,690 km",Petrol,Automatic
+624,2019 Maruti New Wagon-R VXI (O) 1.2,₹5.61 Lakh,"33,625 km",Petrol,Manual
+625,2022 Maruti Celerio ZXI,₹5.64 Lakh,"11,147 km",Petrol,Manual
+626,2022 Maruti New Wagon-R VXI 1.0 AMT,₹6.72 Lakh,"18,757 km",Petrol,Automatic
+627,2020 Maruti New Wagon-R LXI CNG 1.0,₹5.89 Lakh,"43,293 km",CNG,Manual
+628,2022 Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,₹7.40 Lakh,"28,071 km",CNG,Manual
+629,2018 Hyundai NEW SANTRO MAGNA CNG,₹4.27 Lakh,"62,096 km",CNG,Manual
+630,2022 Maruti IGNIS ZETA 1.2 AMT,₹6.99 Lakh,"22,649 km",Petrol,Automatic
+631,2021 Maruti New Wagon-R LXI CNG 1.0,₹6.22 Lakh,"28,755 km",CNG,Manual
+632,2019 Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,₹7.01 Lakh,"17,166 km",Petrol,Automatic
+633,2014 Hyundai Xcent S 1.2,₹4.16 Lakh,"39,788 km",Petrol,Manual
+634,2019 Tata Tiago XZ PLUS PETROL,₹5.10 Lakh,"18,805 km",Petrol,Manual
+635,2022 Mahindra SCORPIO-N Z8 L PETROL AT 7 STR,₹22.00 Lakh,"6,351 km",Petrol,Automatic
+636,2014 Hyundai Elite i20 ASTA 1.2,₹4.15 Lakh,"45,471 km",Petrol,Manual
+637,2018 Maruti Alto K10 VXI (O),₹3.14 Lakh,"35,741 km",Petrol,Manual
+638,2015 Hyundai Elite i20 SPORTZ 1.2,₹4.51 Lakh,"52,810 km",Petrol,Manual
+639,2016 Volkswagen Polo HIGHLINE1.5L,₹4.78 Lakh,"73,048 km",Diesel,Manual
+640,2019 Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,₹6.67 Lakh,"47,261 km",Petrol,Automatic
+641,2012 Hyundai Verna FLUIDIC 1.6 CRDI SX AT,₹3.49 Lakh,"78,769 km",Diesel,Automatic
+642,2021 Maruti Baleno DELTA PETROL 1.2,₹6.13 Lakh,"49,251 km",Petrol,Manual
+643,2015 Maruti Celerio VXI,₹2.73 Lakh,"81,776 km",Petrol,Manual
+644,2019 Skoda Rapid AMBITION 1.5 TDI,₹6.98 Lakh,"95,298 km",Diesel,Manual
+645,2016 Hyundai Verna 1.6 CRDI SX,₹6.34 Lakh,"54,525 km",Diesel,Manual
+646,2019 Hyundai VENUE SX 1.0 TURBO,₹8.62 Lakh,"10,499 km",Petrol,Manual
+647,2016 Honda City 1.5L I-VTEC VX CVT,₹5.57 Lakh,"1,04,082 km",Petrol,Automatic
+648,2015 Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,₹3.77 Lakh,"65,093 km",Petrol,Manual
+649,2012 Honda City 1.5L I-VTEC V AT SUNROOF,₹4.13 Lakh,"83,570 km",CNG,Automatic
+650,2012 Maruti Swift VXI,₹2.76 Lakh,"1,24,132 km",Petrol,Manual
+651,2017 Hyundai Elite i20 SPORTZ 1.2,₹4.97 Lakh,"57,043 km",Petrol,Manual
+652,2016 Hyundai Verna 1.6 VTVT SX AT,₹5.93 Lakh,"24,599 km",Petrol,Automatic
+653,2021 Honda Amaze 1.2L I-VTEC S,₹7.06 Lakh,"15,662 km",Petrol,Manual
+654,2017 Maruti Celerio ZXI AMT,₹4.15 Lakh,"42,521 km",Petrol,Automatic
+655,2020 Renault Kwid RXT 1.0 AMT (O),₹4.67 Lakh,"31,150 km",Petrol,Automatic
+656,2016 Hyundai i10 MAGNA 1.1,₹3.53 Lakh,"11,238 km",Petrol,Manual
+657,2022 Maruti New Wagon-R LXI CNG 1.0,₹6.36 Lakh,"8,325 km",CNG,Manual
+658,2020 Maruti S Cross ALPHA 1.5 SMART HYBRID,₹9.61 Lakh,"52,521 km",Petrol,Manual
+659,2016 Maruti Celerio VXI,₹3.38 Lakh,"82,563 km",Petrol,Manual
+660,2014 Maruti Swift VXI,₹3.77 Lakh,"60,379 km",Petrol,Manual
+661,2015 Honda City 1.5L I-VTEC VX CVT,₹5.74 Lakh,"44,474 km",Petrol,Automatic
+662,2017 Maruti Alto K10 VXI (O) AMT,₹3.16 Lakh,"56,899 km",Petrol,Automatic
+663,2017 Hyundai Verna 1.6 VTVT SX AT,₹6.97 Lakh,"23,581 km",Petrol,Automatic
+664,2018 Toyota Corolla Altis VL CVT PETROL,₹11.11 Lakh,"77,261 km",Petrol,Automatic
+665,2011 Hyundai i10 SPORTZ 1.2,₹2.23 Lakh,"32,590 km",Petrol,Manual
+666,2022 Toyota Glanza G E-CNG,₹8.60 Lakh,"24,367 km",CNG,Manual
+667,2021 Honda City 1.5L I-VTEC VX CVT,₹12.59 Lakh,"13,784 km",Petrol,Automatic
+668,2014 Maruti Wagon R 1.0 LXI CNG SIGNATURE EDITION,₹3.38 Lakh,"48,467 km",CNG,Manual
+669,2019 Hyundai Verna 1.6 VTVT SX O,₹9.52 Lakh,"20,433 km",Petrol,Manual
+670,2020 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,₹7.43 Lakh,"51,924 km",Petrol,Manual
+671,2013 Maruti Wagon R 1.0 LXI CNG,₹3.08 Lakh,"23,693 km",CNG,Manual
+672,2018 Hyundai Creta SX 1.6 PETROL DUAL TONE,₹9.66 Lakh,"45,053 km",Petrol,Manual
+673,2021 Maruti New Wagon-R LXI CNG 1.0,₹5.35 Lakh,"88,859 km",CNG,Manual
+674,2020 Hyundai VENUE SX PLUS 1.0 TURBO DCT,₹9.59 Lakh,"28,532 km",Petrol,Automatic
+675,2019 Maruti Alto VXI,₹3.43 Lakh,"6,343 km",Petrol,Manual
+676,2018 Hyundai NEW SANTRO SPORTZ AMT,₹4.85 Lakh,"52,585 km",Petrol,Automatic
+677,2022 Tata TIGOR XZ PLUS CNG,₹7.76 Lakh,"10,629 km",CNG,Manual
+678,2016 Honda Jazz 1.2L I-VTEC V AT,₹5.44 Lakh,"37,892 km",Petrol,Automatic
+679,2014 Hyundai Xcent SX 1.2 (O),₹4.23 Lakh,"18,316 km",Petrol,Manual
+680,2017 Hyundai Creta SX PLUS AT 1.6 PETROL,₹9.17 Lakh,"68,229 km",Petrol,Automatic
+681,2014 Maruti Celerio VXI AMT,₹3.72 Lakh,"35,792 km",Petrol,Automatic
+682,2012 Maruti Swift VXI,₹3.32 Lakh,"45,286 km",Petrol,Manual
+683,2020 Maruti S PRESSO VXI CNG,₹5.20 Lakh,"5,866 km",CNG,Manual
+684,2018 Honda WR-V 1.2L I-VTEC VX MT,₹7.25 Lakh,"59,897 km",Petrol,Manual
+685,2017 Maruti Baleno ZETA PETROL 1.2,₹5.47 Lakh,"57,576 km",Petrol,Manual
+686,2011 Nissan Micra XV PETROL,₹1.56 Lakh,"72,534 km",Petrol,Manual
+687,2014 Mahindra Thar CRDE 4X4 AC,₹4.83 Lakh,"27,874 km",Diesel,Manual
+688,2017 Maruti Dzire ZXI AMT,₹5.48 Lakh,"34,963 km",Petrol,Automatic
+689,2017 Hyundai Verna 1.6 VTVT SX (O) AT,₹8.14 Lakh,"43,605 km",Petrol,Automatic
+690,2019 Maruti Swift VXI,₹5.77 Lakh,"52,797 km",Petrol,Manual
+691,2015 Volkswagen Polo GT TSI AT,₹5.64 Lakh,"68,254 km",Petrol,Automatic
+692,2012 Volkswagen Polo COMFORTLINE 1.2L PETROL,₹2.66 Lakh,"99,924 km",Petrol,Manual
+693,2014 Hyundai Xcent SX 1.2,₹3.95 Lakh,"13,906 km",CNG,Manual
+694,2015 Maruti Ertiga VXI CNG,₹6.70 Lakh,"65,415 km",CNG,Manual
+695,2020 Maruti New Wagon-R LXI CNG 1.0,₹5.17 Lakh,"54,275 km",CNG,Manual
+696,2017 Maruti Swift VXI,₹4.62 Lakh,"45,176 km",Petrol,Manual
+697,2016 Hyundai Creta E PLUS 1.6 PETROL,₹7.56 Lakh,"20,123 km",Petrol,Manual
+698,2017 Maruti Dzire VXI,₹4.91 Lakh,"86,634 km",Petrol,Manual
+699,2014 Maruti Celerio VXI AMT,₹3.25 Lakh,"48,281 km",Petrol,Automatic
+700,2017 Maruti Alto 800 LXI CNG,₹2.77 Lakh,"45,229 km",CNG,Manual
+701,2019 Maruti New Wagon-R LXI CNG 1.0,₹5.46 Lakh,"68,320 km",CNG,Manual
+702,2015 Renault Kwid RXL,₹2.43 Lakh,"62,919 km",Petrol,Manual
+703,2014 Hyundai i20 SPORTZ 1.2,₹3.18 Lakh,"84,757 km",Petrol,Manual
+704,2017 Hyundai i20 Active 1.2 S,₹5.10 Lakh,"67,083 km",Petrol,Manual
+705,2014 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,₹2.80 Lakh,"70,288 km",Petrol,Manual
+706,2017 Renault Kwid RXT 1.0 AMT (O),₹3.10 Lakh,"36,588 km",Petrol,Automatic
+707,2019 Maruti New Wagon-R LXI CNG 1.0,₹4.86 Lakh,"62,402 km",CNG,Manual
+708,2014 Maruti Ertiga VXI CNG,₹5.30 Lakh,"86,836 km",CNG,Manual
+709,2010 Hyundai i20 SPORTZ (O) 1.2,₹2.29 Lakh,"67,278 km",Petrol,Manual
+710,2016 Skoda Rapid AMBITION 1.6 MPI MT,₹4.71 Lakh,"20,804 km",Petrol,Manual
+711,2021 Renault Kwid RXT 1.0 (O),₹4.16 Lakh,"27,960 km",Petrol,Manual
+712,2012 Hyundai i20 SPORTZ 1.4 CRDI,₹3.09 Lakh,"1,21,540 km",Diesel,Manual
+713,2022 Toyota URBAN CRUISER HYRYDER V AWD NEO DRIVE,₹15.68 Lakh,"11,072 km",Petrol,Manual
+714,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹3.90 Lakh,"36,720 km",Petrol,Manual
+715,2015 Volkswagen Polo HIGHLINE1.2L,₹4.27 Lakh,"17,296 km",Petrol,Manual
+716,2018 Maruti Alto K10 VXI,₹3.35 Lakh,"10,668 km",Petrol,Manual
+717,2022 Maruti XL6 ALPHA AT,₹13.03 Lakh,"13,885 km",Petrol,Automatic
+718,2017 Maruti Wagon R 1.0 VXI + (O) AMT,₹4.00 Lakh,"22,338 km",Petrol,Automatic
+719,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹4.88 Lakh,"23,976 km",Petrol,Manual
+720,2019 Tata NEXON XMA PETROL,₹6.88 Lakh,"22,585 km",Petrol,Automatic
+721,2019 Honda WR-V 1.2L I-VTEC VX MT,₹7.35 Lakh,"16,123 km",Petrol,Manual
+722,2016 Renault Kwid RXT 1.0 (O),₹2.91 Lakh,"38,673 km",Petrol,Manual
+723,2014 Nissan Micra XV CVT,₹3.13 Lakh,"35,409 km",Petrol,Automatic
+724,2018 Maruti Baleno DELTA CVT PETROL 1.2,₹5.32 Lakh,"78,510 km",Petrol,Automatic
+725,2018 Ford Ecosport TITANIUM + 1.5L DIESEL,₹7.17 Lakh,"73,486 km",Diesel,Manual
+726,2018 Volkswagen Ameo HIGHLINE PLUS 1.5L AT 16 ALLOY,₹7.83 Lakh,"24,196 km",Diesel,Automatic
+727,2018 Datsun Redi Go T(O) 1.0 AMT,₹2.71 Lakh,"13,022 km",Petrol,Automatic
+728,2018 Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,₹5.47 Lakh,"27,828 km",Petrol,Automatic
+729,2012 Maruti Swift VDI,₹3.73 Lakh,"63,847 km",Diesel,Manual
+730,2014 Hyundai Xcent S 1.2,₹3.33 Lakh,"85,884 km",Petrol,Manual
+731,2014 Hyundai Xcent S (O) 1.2,₹3.37 Lakh,"87,990 km",Petrol,Manual
+732,2016 Maruti Ciaz VXI+,₹5.51 Lakh,"33,926 km",Petrol,Manual
+733,2016 Mahindra TUV300 T8 AMT,₹6.35 Lakh,"78,086 km",Diesel,Automatic
+734,2016 Maruti Alto 800 LXI,₹2.23 Lakh,"27,010 km",Petrol,Manual
+735,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹3.77 Lakh,"86,980 km",Petrol,Manual
+736,2022 Hyundai VENUE SX 1.5 CRDI,₹10.45 Lakh,"34,263 km",Diesel,Manual
+737,2018 Maruti Baleno DELTA CVT PETROL 1.2,₹5.78 Lakh,"38,360 km",Petrol,Automatic
+738,2021 Hyundai GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,₹6.99 Lakh,"17,530 km",Petrol,Automatic
+739,2015 Maruti Wagon R 1.0 VXI,₹3.43 Lakh,"4,751 km",Petrol,Manual
+740,2018 Maruti Wagon R 1.0 LXI CNG,₹3.89 Lakh,"65,152 km",CNG,Manual
+741,2019 Maruti S Cross DELTA 1.3,₹7.42 Lakh,"50,951 km",Diesel,Manual
+742,2015 Hyundai Elite i20 SPORTZ 1.2,₹4.50 Lakh,"38,724 km",Petrol,Manual
+743,2018 Hyundai Elite i20 ASTA 1.2  CVT,₹6.33 Lakh,"68,871 km",Petrol,Automatic
+744,2018 Ford FREESTYLE TREND 1.2 PETROL,₹5.03 Lakh,"33,203 km",Petrol,Manual
+745,2022 Tata Safari XZA PLUS 6S ADVENTURE,₹20.75 Lakh,"21,483 km",Diesel,Automatic
+746,2017 Ford Ecosport TITANIUM + 1.5L PETROL AT,₹6.68 Lakh,"41,454 km",Petrol,Automatic
+747,2018 Datsun Redi Go T(O) 1.0 AMT,₹2.77 Lakh,"58,078 km",Petrol,Automatic
+748,2019 Tata NEXON XM PETROL,₹7.14 Lakh,"51,862 km",Petrol,Manual
+749,2017 Honda City 1.5L I-VTEC ZX CVT,₹7.66 Lakh,"56,173 km",Petrol,Automatic
+750,2017 Hyundai Creta SX PLUS 1.6 PETROL SPECIAL EDITION,₹8.67 Lakh,"19,663 km",Petrol,Manual
+751,2011 Hyundai i20 MAGNA (O) 1.2,₹2.34 Lakh,"65,702 km",Petrol,Manual
+752,2021 Tata TIGOR XZA PLUS PETROL,₹7.00 Lakh,"21,815 km",Petrol,Automatic
+753,2020 Hyundai VENUE SX PLUS 1.0 TURBO DCT,₹9.23 Lakh,"84,438 km",Petrol,Automatic
+754,2014 Maruti Wagon R 1.0 LXI CNG,₹3.00 Lakh,"86,447 km",CNG,Manual
+755,2018 Honda City 1.5L I-VTEC ZX CVT,₹8.71 Lakh,"48,694 km",Petrol,Automatic
+756,2018 Maruti Baleno ZETA PETROL 1.2,₹5.91 Lakh,"34,377 km",Petrol,Manual
+757,2018 Maruti Baleno DELTA CVT PETROL 1.2,₹6.04 Lakh,"47,293 km",Petrol,Automatic
+758,2012 Maruti Swift VXI,₹3.55 Lakh,"51,886 km",Petrol,Manual
+759,2021 Hyundai AURA S 1.2 CNG,₹7.94 Lakh,"19,999 km",CNG,Manual
+760,2022 Tata Tiago XT CNG,₹6.82 Lakh,"15,582 km",CNG,Manual
+761,2018 Hyundai Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,₹5.67 Lakh,"41,198 km",Petrol,Automatic
+762,2014 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,₹3.81 Lakh,"45,261 km",Petrol,Manual
+763,2019 Maruti Baleno DELTA CVT PETROL 1.2,₹6.89 Lakh,"44,779 km",Petrol,Automatic
+764,2019 Maruti Dzire VXI AMT,₹5.81 Lakh,"59,125 km",Petrol,Automatic
+765,2019 MG HECTOR SHARP 1.5 DCT PETROL,₹13.94 Lakh,"36,844 km",Petrol,Automatic
+766,2017 Volkswagen Ameo COMFORTLINE 1.2L,₹4.33 Lakh,"34,510 km",Petrol,Manual
+767,2016 Renault Kwid RXT 0.8,₹2.60 Lakh,"28,081 km",Petrol,Manual
+768,2019 Volkswagen Polo HIGHLINE PLUS 1.0,₹6.49 Lakh,"39,414 km",Petrol,Manual
+769,2016 Maruti Ertiga VDI SHVS,₹7.52 Lakh,"74,693 km",Diesel,Manual
+770,2011 Hyundai i20 MAGNA (O) 1.2,₹2.18 Lakh,"42,009 km",Petrol,Manual
+771,2016 Hyundai Creta SX PLUS AT 1.6 DIESEL,₹8.82 Lakh,"91,828 km",Diesel,Automatic
+772,2021 Maruti Celerio VXI (O) CNG,₹5.03 Lakh,"58,709 km",CNG,Manual
+773,2017 Hyundai Creta SX PLUS 1.6 DIESEL,₹9.21 Lakh,"42,819 km",Diesel,Manual
+774,2016 Maruti Baleno ZETA CVT PETROL 1.2,₹5.44 Lakh,"33,818 km",Petrol,Automatic
+775,2019 Tata Tiago XZA PLUS PETROL,₹5.73 Lakh,"42,876 km",Petrol,Automatic
+776,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,₹4.39 Lakh,"13,996 km",Petrol,Manual
